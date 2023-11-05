@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-  <main className='overflow-hidden bg-slate-400'>
+  <main className='overflow-hidden bg-white'>
     <Hero />
     <div className='mt-12 sm:px-16 px-6 py-4 max-width' id='discover'>
       <div className='flex flex-col items-start justify-start gap-y-2.5 text-black-100;'>
